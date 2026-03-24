@@ -1,0 +1,6 @@
+@fabrica_polpa_HostAddress = http://localhost:5291
+
+GET {{fabrica_polpa_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
